@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = "eclaircy's blogs"
+copyright = '2022, eclaircy'
+author = 'eclaircy'
 
 release = '0.1'
 version = '0.1.0'

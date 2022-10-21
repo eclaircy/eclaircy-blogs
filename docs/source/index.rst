@@ -18,3 +18,5 @@ Contents
 
    usage
    api
+   ctfshow-pwn
+   buuctf-pwn

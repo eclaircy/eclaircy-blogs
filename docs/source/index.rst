@@ -16,7 +16,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    ctfshow-pwn
    buuctf-pwn

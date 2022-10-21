@@ -19,6 +19,8 @@ Contents
 
    ctfshow-pwn
    buuctf-pwn
+   course
+   course-test
 
 
 .. note::

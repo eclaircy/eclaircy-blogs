@@ -1,4 +1,4 @@
-Welcome to eclaircy's blogs!
+info
 ===================================
 
 **eclaircy**'s studying progress is documented here. 
@@ -17,11 +17,10 @@ Contents
 
 .. toctree::
 
-   homepage/index
-   pwn/index
-   courses/index
-   papers/index
-   machine learning/index
+   ctfshow-pwn
+   buuctf-pwn
+   courses
+   courses-test
 
 
 .. note::
